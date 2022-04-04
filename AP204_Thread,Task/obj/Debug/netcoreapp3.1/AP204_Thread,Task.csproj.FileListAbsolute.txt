@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\AP204_Thread,Task\AP204_Thread,Task\bin\Debug\netcoreapp3.1\AP204_Thread,Task.exe
+C:\Users\Lenovo\source\repos\AP204_Thread,Task\AP204_Thread,Task\bin\Debug\netcoreapp3.1\AP204_Thread,Task.deps.json
+C:\Users\Lenovo\source\repos\AP204_Thread,Task\AP204_Thread,Task\bin\Debug\netcoreapp3.1\AP204_Thread,Task.runtimeconfig.json
+C:\Users\Lenovo\source\repos\AP204_Thread,Task\AP204_Thread,Task\bin\Debug\netcoreapp3.1\AP204_Thread,Task.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\AP204_Thread,Task\AP204_Thread,Task\bin\Debug\netcoreapp3.1\AP204_Thread,Task.dll
+C:\Users\Lenovo\source\repos\AP204_Thread,Task\AP204_Thread,Task\bin\Debug\netcoreapp3.1\AP204_Thread,Task.pdb
+C:\Users\Lenovo\source\repos\AP204_Thread,Task\AP204_Thread,Task\obj\Debug\netcoreapp3.1\AP204_Thread,Task.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AP204_Thread,Task\AP204_Thread,Task\obj\Debug\netcoreapp3.1\AP204_Thread,Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\AP204_Thread,Task\AP204_Thread,Task\obj\Debug\netcoreapp3.1\AP204_Thread,Task.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\AP204_Thread,Task\AP204_Thread,Task\obj\Debug\netcoreapp3.1\AP204_Thread,Task.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\AP204_Thread,Task\AP204_Thread,Task\obj\Debug\netcoreapp3.1\AP204_Thread,Task.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AP204_Thread,Task\AP204_Thread,Task\obj\Debug\netcoreapp3.1\AP204_Thread,Task.dll
+C:\Users\Lenovo\source\repos\AP204_Thread,Task\AP204_Thread,Task\obj\Debug\netcoreapp3.1\AP204_Thread,Task.pdb
+C:\Users\Lenovo\source\repos\AP204_Thread,Task\AP204_Thread,Task\obj\Debug\netcoreapp3.1\AP204_Thread,Task.genruntimeconfig.cache
